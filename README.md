@@ -39,4 +39,4 @@ Summarize the actionable insights derived from the clustering analysis and provi
 - Clustering provides a data-driven methodology for decision-making. Instead of arbitrary or subjective criteria, the clustering algorithm objectively groups countries based on the underlying patterns present in the data.
 - Clustering will group countries with similar socio-economic and health indicators. This helps in identifying regions or groups of countries facing comparable challenges and in need of similar types of aid.
 
-[Alt Text]()
+![Alt Text]("Images/Pairflot_beforeLog.png")
